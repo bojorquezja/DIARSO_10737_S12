@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fachada", "fachada\fachada.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adaptador", "adaptador\adaptador.csproj", "{DB2628A6-AA6E-4625-B422-86FFB03E88A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proxy", "proxy\proxy.csproj", "{0F37B043-2C7D-4F03-BA06-6E92E04DA6A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DB2628A6-AA6E-4625-B422-86FFB03E88A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB2628A6-AA6E-4625-B422-86FFB03E88A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB2628A6-AA6E-4625-B422-86FFB03E88A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F37B043-2C7D-4F03-BA06-6E92E04DA6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F37B043-2C7D-4F03-BA06-6E92E04DA6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F37B043-2C7D-4F03-BA06-6E92E04DA6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F37B043-2C7D-4F03-BA06-6E92E04DA6A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
